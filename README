@@ -2,3 +2,5 @@ It's a nyan cat loader made using HTML5, CSS3 & JavaScript (jQuery and jQuery UI
 Project was made just for fun to train CSS3 media queries, responsive web design and JavaScript.
 You can use this loader in your projects if they're crazy enough ;-).
 In order to use it as a "normal loader", project needs some adjustments.
+
+Check out demo: http://wittchen.biz.pl/files/experiments/nyan-cat-loader/loader.html
